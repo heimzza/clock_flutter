@@ -1,4 +1,0 @@
-#Thu Sep 03 17:18:44 EET 2020
-base.0=C\:\\Users\\Hamza\\Documents\\flutter-app\\Flutter-Analog-Clock-Light-Dark-Theme-Starting-Project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
